@@ -1,0 +1,4 @@
+a cpp source code which follows the ailurus coding standard need to be like that:
+type function_name(type arg_a){
+	//do something;
+}
